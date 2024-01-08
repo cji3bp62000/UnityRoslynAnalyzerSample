@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerPlayground", "AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.csproj", "{0528234B-E35D-48B8-A85C-BC23F9119AF7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerPlayground.Sample", "AnalyzerPlayground\AnalyzerPlayground.Sample\AnalyzerPlayground.Sample.csproj", "{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0528234B-E35D-48B8-A85C-BC23F9119AF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0528234B-E35D-48B8-A85C-BC23F9119AF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0528234B-E35D-48B8-A85C-BC23F9119AF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0528234B-E35D-48B8-A85C-BC23F9119AF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
