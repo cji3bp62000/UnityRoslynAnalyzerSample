@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RuleSet Name="TestAsmdef Rule Set" Description=" " ToolsVersion="10.0">
+  <Rules AnalyzerId="AnalyzerPlayground" RuleNamespace="AnalyzerPlayground.Sample">
+    <Rule Id="RA0001" Action="None" />
+    <Rule Id="RA0002" Action="Error" />
+  </Rules>
+</RuleSet>
