@@ -10,3 +10,15 @@ C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\Analyze
 C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\refint\AnalyzerPlayground.Sample.dll
 C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.pdb
 C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\ref\AnalyzerPlayground.Sample.dll
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\bin\Debug\net6.0\AnalyzerPlayground.Sample.deps.json
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\bin\Debug\net6.0\AnalyzerPlayground.Sample.dll
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\bin\Debug\net6.0\AnalyzerPlayground.Sample.pdb
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.csproj.AssemblyReference.cache
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.AssemblyInfoInputs.cache
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.AssemblyInfo.cs
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.csproj.CoreCompileInputs.cache
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.dll
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\refint\AnalyzerPlayground.Sample.dll
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\AnalyzerPlayground.Sample.pdb
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground.Sample\obj\Debug\net6.0\ref\AnalyzerPlayground.Sample.dll

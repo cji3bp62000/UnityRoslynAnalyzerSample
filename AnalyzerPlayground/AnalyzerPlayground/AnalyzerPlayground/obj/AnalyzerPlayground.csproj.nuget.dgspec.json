@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj": {}
+    "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj": {
+    "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj",
+        "projectUniqueName": "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj",
         "projectName": "AnalyzerPlayground",
-        "projectPath": "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj",
+        "projectPath": "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.csproj",
         "packagesPath": "C:\\Users\\tsukimineko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\obj\\",
+        "outputPath": "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\tsukimineko\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerPlayground", "Analy
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnalyzerPlayground.Sample", "AnalyzerPlayground\AnalyzerPlayground.Sample\AnalyzerPlayground.Sample.csproj", "{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGeneratorPlayground", "SourceGeneratorPlayground\SourceGeneratorPlayground\SourceGeneratorPlayground.csproj", "{F187F35A-08B1-446D-A68A-9E78ABFC8330}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceGeneratorPlayground.Sample", "SourceGeneratorPlayground\SourceGeneratorPlayground.Sample\SourceGeneratorPlayground.Sample.csproj", "{6F18E17A-F088-4D0E-A2A2-2BDD7C56F886}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6DAFB60-5C03-4C2D-8AF8-F711A54A2400}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F187F35A-08B1-446D-A68A-9E78ABFC8330}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F187F35A-08B1-446D-A68A-9E78ABFC8330}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F187F35A-08B1-446D-A68A-9E78ABFC8330}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F187F35A-08B1-446D-A68A-9E78ABFC8330}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F18E17A-F088-4D0E-A2A2-2BDD7C56F886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F18E17A-F088-4D0E-A2A2-2BDD7C56F886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F18E17A-F088-4D0E-A2A2-2BDD7C56F886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F18E17A-F088-4D0E-A2A2-2BDD7C56F886}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

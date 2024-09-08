@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.Sample\\AnalyzerPlayground.Sample.csproj",
+      "projectUniqueName": "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.Sample\\AnalyzerPlayground.Sample.csproj",
       "projectName": "AnalyzerPlayground.Sample",
-      "projectPath": "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.Sample\\AnalyzerPlayground.Sample.csproj",
+      "projectPath": "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.Sample\\AnalyzerPlayground.Sample.csproj",
       "packagesPath": "C:\\Users\\tsukimineko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tsukimineko\\RiderProjects\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.Sample\\obj\\",
+      "outputPath": "C:\\Users\\tsukimineko\\Documents\\UnityRoslynAnalyzerSample\\AnalyzerPlayground\\AnalyzerPlayground\\AnalyzerPlayground.Sample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tsukimineko\\AppData\\Roaming\\NuGet\\NuGet.Config",

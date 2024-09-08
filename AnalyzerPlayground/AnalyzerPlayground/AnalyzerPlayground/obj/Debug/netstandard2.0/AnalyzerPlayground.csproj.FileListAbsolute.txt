@@ -8,3 +8,13 @@ C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\Analyze
 C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.csproj.CoreCompileInputs.cache
 C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.dll
 C:\Users\tsukimineko\RiderProjects\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.pdb
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\bin\Debug\netstandard2.0\AnalyzerPlayground.deps.json
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\bin\Debug\netstandard2.0\AnalyzerPlayground.dll
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\bin\Debug\netstandard2.0\AnalyzerPlayground.pdb
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.csproj.AssemblyReference.cache
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.AssemblyInfoInputs.cache
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.AssemblyInfo.cs
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.csproj.CoreCompileInputs.cache
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.dll
+C:\Users\tsukimineko\Documents\UnityRoslynAnalyzerSample\AnalyzerPlayground\AnalyzerPlayground\AnalyzerPlayground\obj\Debug\netstandard2.0\AnalyzerPlayground.pdb
