@@ -8,7 +8,7 @@ AnalyzerPlaygroundUnity：Unity プロジェクト<br/><br/>
 
 **アナライザー：**
 
-1. RA0001: `MaterialLeakSemanticAnalyzer`
+1. RA0001: `MaterialLeakSemanticAnalyzer`　（→ [コード](https://github.com/cji3bp62000/UnityRoslynAnalyzerSample/blob/main/AnalyzerPlayground/AnalyzerPlayground/AnalyzerPlayground/MaterialLeakSemanticAnalyzer.cs)）
    * マテリアル未破棄アナライザー
    * new() されて、Destroy していないマテリアルに対して、警告を出す
 ```C#
@@ -33,7 +33,7 @@ public class MaterialDestroyAnalyzerTestScript : MonoBehaviour
 }
 ```
 
-2. RA0002: `IfWhiteSpaceSyntaxAnalyzer`
+2. RA0002: `IfWhiteSpaceSyntaxAnalyzer`　（→ [コード](https://github.com/cji3bp62000/UnityRoslynAnalyzerSample/blob/main/AnalyzerPlayground/AnalyzerPlayground/AnalyzerPlayground/IfWhiteSpaceSyntaxAnalyzer.cs)）
    * `if` 文のコードフォーマットのアナライザー
    * `if` 文が正しいフォーマットでなければ、警告を出す (スペースが一個ずつあり、改行なし)
  
